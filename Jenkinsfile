@@ -6,7 +6,7 @@ pipeline {
     }
     }
 
-    enviroment{
+    environment {
         NETLIFY_SITE_ID = '3c556d46-04f8-42dd-9b55-15a65e9dc567'
     }
 
